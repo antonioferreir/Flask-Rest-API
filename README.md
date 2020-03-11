@@ -1,4 +1,4 @@
-# flask-rest-api-example
+# flask-rest-api
 Example for how to use flask rest api with flask-sqlalchemy and JWT authentication
 
 intall requirements : 
